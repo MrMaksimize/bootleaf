@@ -1,11 +1,26 @@
 {
-  "name": "mynodeapp",
-  "version": "0.0.1",
+  "name": "bootleaf",
+  "version": "0.0.0",
+  "description": "The Heroku Boilerplate includes all the files you need to get NodeJS set up on Heroku. The files were created from the Heroku tutorial, \"Getting Started with Node.js on Heroku/Cedar\" http://devcenter.heroku.com/articles/node-js",
+  "main": "web.js",
   "dependencies": {
-    "express": "3.0.x"
+    "express": "~3.0.6"
   },
-  "engines" : {
-    "node" : "0.8.x",
-    "npm" : "1.1.x"
-  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MrMaksimize/bootleaf.git"
+  },
+  "keywords": [
+    "bootleaf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMaksimize/bootleaf/issues"
+  },
+  "homepage": "https://github.com/MrMaksimize/bootleaf"
 }
