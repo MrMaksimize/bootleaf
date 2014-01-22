@@ -4,7 +4,8 @@
   "description": "The Heroku Boilerplate includes all the files you need to get NodeJS set up on Heroku. The files were created from the Heroku tutorial, \"Getting Started with Node.js on Heroku/Cedar\" http://devcenter.heroku.com/articles/node-js",
   "main": "web.js",
   "dependencies": {
-    "express": "~3.0.6"
+    "express": "~3.0.6",
+    "logfmt" : "~0.18.1"
   },
   "devDependencies": {},
   "scripts": {
